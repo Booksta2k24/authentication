@@ -1,0 +1,14 @@
+2024-08-03 14:38:25 [[32MINFO[39M]: server connected on http://localhost:3000
+2024-08-03 14:41:05 [[32MINFO[39M]: server connected on http://localhost:3000
+{"level":"info","message":"server connected on http://localhost:3000","service":"book-service","timestamp":"2024-08-03 14:43:56"}
+{"level":"info","message":"server connected on http://localhost:3000","service":"boo-service","timestamp":"2024-08-03 14:44:38"}
+{"level":"info","message":"server connected on http://localhost:3000","service":"-service","timestamp":"2024-08-03 14:44:58"}
+{"level":"info","message":"server connected on http://localhost:3000","service":"auth-service","timestamp":"2024-08-03 14:45:01"}
+{"level":"info","message":"server connected on http://localhost:3000","service":"auth-service","timestamp":"2024-08-03 14:46:58"}
+{"level":"info","message":"server connected on http://localhost:3000","service":"auth-service","timestamp":"2024-08-03 14:49:23"}
+{"level":"info","message":"server connected on http://localhost:3000","service":"auth-service","timestamp":"2024-08-03 14:51:10"}
+{"level":"info","message":"server connected on http://localhost:3000","service":"auth-service","timestamp":"2024-08-03 14:51:12"}
+{"level":"info","message":"server connected on http://localhost:3000","service":"auth-service","timestamp":"2024-08-03 14:51:20"}
+{"level":"info","message":"server connected on http://localhost:3000","service":"auth-service","timestamp":"2024-08-03 14:51:23"}
+{"level":"info","message":"server connected on http://localhost:3000","service":"auth-service","timestamp":"2024-08-03 14:51:24"}
+{"level":"info","message":"server connected on http://localhost:3000","service":"auth-service","timestamp":"2024-08-03 14:51:50"}
