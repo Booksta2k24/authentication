@@ -13,6 +13,7 @@ const userSchema: Schema = new Schema<IUser & Document>(
             type:String,
         },
         isBlock:{
+            default:false,
             type:Boolean,
         },
         profileImage:{
