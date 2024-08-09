@@ -12,4 +12,6 @@ export class UserRepository implements IUserRepository{
     findUser(email: string): Promise<IUser | null> {
         return findUser(email,this.usersModel)
     }
+    
+    
 }
