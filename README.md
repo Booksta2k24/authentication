@@ -9,6 +9,7 @@ This document outlines the API for user authentication, including signup and log
 http://localhost:3000/api
 
 
+
 ---
 
 ## Endpoints
