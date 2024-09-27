@@ -1,0 +1,6 @@
+export const INVALID_MSG='Invalid email address'
+export const FNAME_REQ='First name is required'
+export const FNAME_CONTAINS='First name must contain only letters'
+export const LNAME_REQ='Last name is required'
+export const LNAME_CONTAINS='Last name must contain only letters'
+export const PD_MSG='Password must be at least 8 characters long, contain at least one uppercase letter, one lowercase letter, one number, and one special character'
