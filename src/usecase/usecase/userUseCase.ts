@@ -1,6 +1,6 @@
 import Encrypt from "../../infrastructure/services/bcrypt";
 import JwtPassword from "../../infrastructure/services/jwt";
-import { IUserRepository } from "../interface/repository/IUserRepository";
+import { IUserRepository } from "../interface/repository/IuserRepository";
 import { createUser } from "./user/createUser";
 import { loginUser } from "./user/loginUser";
 
