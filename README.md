@@ -6,7 +6,7 @@ This document outlines the API for user authentication, including signup and log
 ---
 
 ## Base URL
-http://localhost:3000/api
+https://authentication-ky0g.onrender.com/api
 
 
 
